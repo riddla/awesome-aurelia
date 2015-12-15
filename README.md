@@ -4,10 +4,14 @@ A curated list of awesome Aurelia (http://aurelia.io) resources.
 
 Inspired by [all the other awesome things](https://github.com/bayandin/awesome-awesomeness).
 
-## Documentation
+## Official resources ##
 
-- [Aurelia Docs](http://aurelia.io/docs.html) – The official Aurelia documentation.
+- [Blog](http://blog.durandal.io/)
+- [Documentation](http://aurelia.io/docs.html)
 - [API Documentation](http://aurelia.io/docs.html#/api/home)
+- [Gitter chat room](http://www.gitter.im/aurelia/discuss)
+- [GitHub organization](https://github.com/aurelia)
+- [Getting started kits for ES 2016 and TypeScript](https://github.com/aurelia/beginner-kits)
 
 ## Podcasts  ##
 
@@ -31,7 +35,6 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 
 ## Community
 
-- [Gitter chat room](http://www.gitter.im/aurelia/discuss)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/aurelia)
 - [GitHub](https://github.com/aurelia)
 
