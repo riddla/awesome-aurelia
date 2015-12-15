@@ -7,7 +7,9 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 ## Official resources ##
 
 - [Blog](http://blog.durandal.io/)
+- [Rob's Other Blog](http://eisenbergeffect.bluespire.com/)
 - [Documentation](http://aurelia.io/docs.html)
+- [Old Documentation](https://github.com/aurelia/documentation/blob/master/English/docs.md)
 - [API Documentation](http://aurelia.io/docs.html#/api/home)
 - [Gitter chat room](http://www.gitter.im/aurelia/discuss)
 - [GitHub organization](https://github.com/aurelia)
@@ -30,12 +32,19 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 ## Blogs  ##
 
 - [Personal blog of Australian Front End / Aurelia Javascript Developer Dwayne Charrington](http://ilikekillnerds.com/category/javascript/aurelia/)
+- [Personal blog on Aurelia dev / Developer Jeremy Danyow] (http://www.danyow.net/)
+- [Personal blog on Aurelia dev / Developer 'Adriatic'](http://blog.aurelia-guides.com/)
+- [Personal blog on Aurelia dev / Developer Patrick Walters aka 'PWKAD'](http://patrickwalters.net/)
+- [Personal blog on Aurelia dev / Developer 'drdwilcox'](http://drdwilcox.blogspot.com/)
+- [Personal blog on Aurelia dev / Developer Michael Lambert](http://hobbit-on-aurelia.net/)
+- [Personal blog on Aurelia dev / Developer Sean Hunter](http://sean-hunter.io/)
+- [Personal blog on Aurelia dev / Developer Paul van Bladel](http://blog.opinionatedapps.com/)
 
-## Community
+## Community  ##
 
 - [StackOverflow](http://stackoverflow.com/questions/tagged/aurelia)
 - [GitHub](https://github.com/aurelia)
 
-## Twitter
+## Twitter  ##
 
 - [Rob Eisenberg](https://twitter.com/eisenbergeffect)
