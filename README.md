@@ -10,6 +10,14 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 
 ## Podcasts  ##
 
+- 08.04.2015 [Herding Code 203: Rob Eisenberg on Aurelia](http://herdingcode.com/herding-code-203-rob-eisenberg-on-aurelia/)
+- 06.02.2015 [The Changelog #140: Aurelia, Durandal, and leaving AngularJS with Rob Eisenberg](http://5by5.tv/changelog/140)
+- 02.02.2015 [The Web Platform Podcast : 38: Aurelia.io](http://thewebplatform.libsyn.com/38-aureliaio)
+
+## Videos  ##
+
+- 12.11.2015 [Rob Eisenberg on Aurelia | DEVIntersection 2015 | Channel 9](https://channel9.msdn.com/Events/Seth-on-the-Road/DevIntersection-2015/Rob-Eisenberg-on-Aurelia)
+
 ## Examples
 
 ## Tutorials
