@@ -13,6 +13,10 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [GitHub organization](https://github.com/aurelia)
 - [Getting started kits for ES 2016 and TypeScript](https://github.com/aurelia/beginner-kits)
 
+## Tools  ##
+
+- [generator-aurelia](https://github.com/zewa666/generator-aurelia) – Yeoman Generator for the Skeleton App
+
 ## Podcasts  ##
 
 - 08.04.2015 [Herding Code 203: Rob Eisenberg on Aurelia](http://herdingcode.com/herding-code-203-rob-eisenberg-on-aurelia/)
