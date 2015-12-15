@@ -23,15 +23,9 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 
 - 12.11.2015 [Rob Eisenberg on Aurelia | DEVIntersection 2015 | Channel 9](https://channel9.msdn.com/Events/Seth-on-the-Road/DevIntersection-2015/Rob-Eisenberg-on-Aurelia)
 
-## Examples
+## Blogs  ##
 
-## Tutorials
-
-## Screencasts
-
-## Talks
-
-## News
+- [Personal blog of Australian Front End / Aurelia Javascript Developer Dwayne Charrington](http://ilikekillnerds.com/category/javascript/aurelia/)
 
 ## Community
 
@@ -39,3 +33,5 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [GitHub](https://github.com/aurelia)
 
 ## Twitter
+
+- [Rob Eisenberg](https://twitter.com/eisenbergeffect)
