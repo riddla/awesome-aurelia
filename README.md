@@ -7,6 +7,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 ## Documentation
 
 - [Aurelia Docs](http://aurelia.io/docs.html) – The official Aurelia documentation.
+- [API Documentation](http://aurelia.io/docs.html#/api/home)
 
 ## Podcasts  ##
 
@@ -29,5 +30,9 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 ## News
 
 ## Community
+
+- [Gitter chat room](http://www.gitter.im/aurelia/discuss)
+- [StackOverflow](http://stackoverflow.com/questions/tagged/aurelia)
+- [GitHub](https://github.com/aurelia)
 
 ## Twitter
