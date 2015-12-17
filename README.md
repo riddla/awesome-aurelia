@@ -28,6 +28,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 ## Videos  ##
 
 - 12.11.2015 [Rob Eisenberg on Aurelia | DEVIntersection 2015 | Channel 9](https://channel9.msdn.com/Events/Seth-on-the-Road/DevIntersection-2015/Rob-Eisenberg-on-Aurelia)
+- 1-.12.2015 [Jeremy Danyow on Binding | Readthesource 12](https://www.youtube.com/watch?v=NyxGZYgOCuo)
 
 ## Blogs  ##
 
@@ -35,7 +36,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [Personal blog on Aurelia dev / Developer Jeremy Danyow] (http://www.danyow.net/)
 - [Personal blog on Aurelia dev / Developer 'Adriatic'](http://blog.aurelia-guides.com/)
 - [Personal blog on Aurelia dev / Developer Patrick Walters aka 'PWKAD'](http://patrickwalters.net/)
-- [Personal blog on Aurelia dev / Developer 'drdwilcox'](http://drdwilcox.blogspot.com/)
+- [Personal blog on Aurelia dev / Developer Don Wilcox aka 'drdwilcox'](http://drdwilcox.blogspot.com/)
 - [Personal blog on Aurelia dev / Developer Michael Lambert](http://hobbit-on-aurelia.net/)
 - [Personal blog on Aurelia dev / Developer Sean Hunter](http://sean-hunter.io/)
 - [Personal blog on Aurelia dev / Developer Paul van Bladel](http://blog.opinionatedapps.com/)
